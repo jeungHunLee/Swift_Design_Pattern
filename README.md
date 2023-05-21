@@ -11,7 +11,7 @@ thank you.
 
 ### 1. Singleton Pattern
 <a href="https://github.com/jeungHunLee/Swift_Design_Pattern/blob/main/Design_Pattern.playground/Pages/Singleton.xcplaygroundpage/Contents.swift">> Singleton Pattern Source Code</a> <br>
-<a href="https://velog.io/@jeunghun2/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Singleton-Pattern-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4>">> Singleton Pattern reference</a> <br>
+<a href="https://velog.io/@jeunghun2/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-Singleton-Pattern-%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4">> Singleton Pattern reference</a> <br>
 <hr>
 
 ### 2. Factory method Pattern
