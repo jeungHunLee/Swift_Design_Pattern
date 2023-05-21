@@ -3,5 +3,6 @@
     <pages>
         <page name='Singleton'/>
         <page name='FactoryMethodPattern'/>
+        <page name='AdapterPattern'/>
     </pages>
 </playground>
